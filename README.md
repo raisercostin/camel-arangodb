@@ -10,6 +10,7 @@ For more details about ArangoDB, consult the [ArangoDB web site](https://www.ara
 ## Latest news
 
 * Version 2.0: support for ArangoDB 3.1 or above (tested with 3.3.19)
+* Version 2.1: support for ArangoDB 4.X (tested with 4.7.3)
 
 
 ## Build
@@ -29,7 +30,7 @@ Add the dependency in your pom.xml
 <dependency>
   <groupId>io.millesabords.camel</groupId>
   <artifactId>camel-arangodb</artifactId>
-  <version>1.0</version>
+  <version>2.1</version>
 </dependency>
 ```
 
